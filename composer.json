@@ -5,12 +5,12 @@
 	"type": "yii2-extension",
 	"license": "MIT",
 	"support": {
-		"source": "https://github.com/worstinme/yii2-forum"
+		"source": "https://github.com/sywooch/yii2-forum"
 	},
 	"authors": [
         {
             "name": "Evgeny Zakirov",
-            "homepage" : "https://github.com/worstinme"
+            "homepage" : "https://github.com/sywooch"
         }
 	],
 	"require": {
