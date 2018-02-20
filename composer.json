@@ -15,7 +15,7 @@
 	],
 	"require": {
         "yiisoft/yii2": ">=2.0.6",
-        "yiisoft/yii2-imagine": "2.0.0",
+        "yiisoft/yii2-imagine": "^2.1",
         "worstinme/yii2-uikit": "*",
         "worstinme/yii2-jodit" : "*"
     },
